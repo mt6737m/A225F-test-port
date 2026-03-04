@@ -1,4 +1,4 @@
-name: CamaroROM builder Beta.
+name: CamaroROM Builder Beta.
 
 on:
   workflow_dispatch:
