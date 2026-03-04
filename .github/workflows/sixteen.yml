@@ -1,4 +1,4 @@
-name: QuantumROM Tools.
+name: CamaroROM Builder.
 
 on:
   workflow_dispatch:
@@ -102,7 +102,7 @@ jobs:
           files: |
             OUT/*
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
 
       - name: Clean everything.
         run: sudo rm -rf *
