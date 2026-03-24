@@ -1,4 +1,4 @@
-![QuantumROM Logo](QuantumROM/logo/QuantumROM.jpg)
+![CamaroROM Logo](QuantumROM/logo/CamaroROM.png)
 
 ## 📌 Overview.
 This Custom ROM is built by combining and refining features from multiple projects, including UNICA, Legacy-UI, and AstroRom.
