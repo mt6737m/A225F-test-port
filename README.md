@@ -1,4 +1,4 @@
-![QuantumROM Logo](QuantumROM/logo/QuantumROM.jpg)
+![ Logo](QuantumROM/logo/BK.png)
 
 ## 📌 Overview.
 This Custom ROM is built by combining and refining features from multiple projects, including UNICA, Legacy-UI, and AstroRom.
