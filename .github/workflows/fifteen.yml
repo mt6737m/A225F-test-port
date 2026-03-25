@@ -1,4 +1,4 @@
-name: QuantumROM Tools OS-15.
+name: BarracudaROM Build UI.
 
 on:
   workflow_dispatch:
@@ -95,7 +95,7 @@ jobs:
 
       - name: Upload file in GoFile & Create Release.
         env:
-          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GIT_TOKEN: ${{ secrets.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 }}
           STOCK_DEVICE: ${{ github.event.inputs.STOCK_DEVICE }}
           TARGET_DEVICE: ${{ github.event.inputs.TARGET_DEVICE }}
           OUTPUT_FILESYSTEM: ${{ github.event.inputs.OUTPUT_FILESYSTEM }}
